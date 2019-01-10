@@ -1,3 +1,7 @@
+## CARLA Latest Release
+
+  * Added for camera sensors like the Lidar a tick interval (tick_interval) to specify the time between captures.
+
 ## CARLA 0.9.2
 
   * Updated ROS bridge for CARLA 0.9.X (moved to its own repository)
