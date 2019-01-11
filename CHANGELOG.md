@@ -1,6 +1,6 @@
 ## CARLA Latest Release
 
-  * Added for camera sensors like the Lidar a tick interval (tick_interval) to specify the time between captures.
+  * Added a tick interval property (sensor_tick) for camera sensors like the Lidar to specify the time between sensor captures.
 
 ## CARLA 0.9.2
 
